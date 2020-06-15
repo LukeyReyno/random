@@ -7,7 +7,8 @@
 
 Ex. Input "yuh: 123456:.? hmm"
     
-    Output: Letters: 6
+    Output: The Input String is: yuh: 123456::: hmm
+            Letters: 6
             Numbers: 6
             Spaces: 2
             Others: 4
